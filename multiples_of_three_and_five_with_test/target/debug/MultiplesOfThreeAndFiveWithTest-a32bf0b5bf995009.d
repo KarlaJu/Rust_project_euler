@@ -1,0 +1,1 @@
+C:\Users\Pac\Desktop\Rust_project_euler\multiples_of_three_and_five_with_test\target\debug\MultiplesOfThreeAndFiveWithTest-a32bf0b5bf995009.pdb: C:\Users\Pac\Desktop\Rust_project_euler\multiples_of_three_and_five_with_test\src\main.rs
